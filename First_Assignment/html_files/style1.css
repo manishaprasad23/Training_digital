@@ -1,0 +1,13 @@
+a {
+	color: rgb(100,200,50);
+	text-decoration: none;
+}
+
+div {
+
+	background-color: blue;
+	text-align: center;
+	margin: auto;
+	
+	width: 500px;
+}

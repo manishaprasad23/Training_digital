@@ -1,0 +1,24 @@
+body {
+	background: url(../img/logo.jpg) no-repeat;
+	text-indent: 200px;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 50px;
+	letter-spacing: 6px;
+	color: blue;
+	text-transform: uppercase;
+	text-shadow: 
+	5px -1px 0px black,
+	5px -1px 0px red;
+
+}
+
+.box {
+	width: 400px;
+	height: 400px;
+	background: rgb(100,200,50);
+    position: relative;
+    left: 10px;
+}
