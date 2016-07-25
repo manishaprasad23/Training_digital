@@ -1,0 +1,83 @@
+.bclass {
+	background-image: url(../img/i1.jpg);
+	background-size: cover;
+}
+a {
+	text-decoration: none;
+	color: black;
+	
+}
+ ul a:hover {
+ 	color: rgb(100,200,50);
+ }
+ .meta {
+ 	text-align: right;
+ }
+
+ .banner {
+ 	width: 100px;
+ 	height: 100px;
+ }
+
+nav li {
+	display: inline;
+}
+
+.header{
+	background-image: url(../img/i5.jpg);
+	position: fixed;
+	background-size: cover;
+	font-family: cursive;
+	text-shadow: 1px 1px black;
+	margin-top: -20px;
+}
+.full
+{
+	background-color: gray;
+}
+
+footer{
+	clear: both;
+	
+	
+}
+
+.footer_class{
+	color: black;
+}
+
+.nav_class {
+	margin-top: 15px;
+	letter-spacing: 1px;
+	font-family: monospace;
+	margin-right: 5px;
+	font-size: 15px;
+	text-shadow: 1px 1px 1px black;
+}
+
+.fclass {
+	background-color: grey;
+	}
+
+.inclass {
+	text-align: center;
+}
+
+.wrap {
+	background-color: white;
+}
+
+.last_class {
+	text-align: center;
+}
+
+.dash p {
+	border: 1px dashed black;
+}
+.imagea img{
+	margin-left: 170px;
+}
+
+.hero h1 {
+	text-align: center;
+}
